@@ -1,0 +1,9 @@
+.bouquet-canvas-wrap {
+  position: fixed;
+  inset: 0;
+  background: #000;
+}
+
+.bouquet-canvas-wrap canvas {
+  touch-action: none;
+}
